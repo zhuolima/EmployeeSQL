@@ -17,6 +17,7 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 ## Instructions
 
 #### Data Modeling
+![Employees_db_ERD Diagram](https://user-images.githubusercontent.com/74121692/134448817-e0c7f6dd-56ec-42e7-9c6e-533cd284817e.png)
 
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
